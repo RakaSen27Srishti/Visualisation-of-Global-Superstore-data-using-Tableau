@@ -1,6 +1,6 @@
 # MODERN RETAIL ANALYTICS: A CLOSER LOOK INTO SUCCESSFUL AND UNSUCCESSFUL STRATEGIES
 
-# Collaboratos:
+# Collaborators:
 1. Annesha Deb
 2. Atrayee Dutta Chowdhury
 3. Purvita Mandal
